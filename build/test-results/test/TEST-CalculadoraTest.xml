@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculadoraTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-05-26T15:25:48" hostname="DESKTOP-TE0QRK7" time="0.072">
+  <properties/>
+  <testcase name="porcentagemTest()" classname="CalculadoraTest" time="0.04"/>
+  <testcase name="multiplicacaoTest()" classname="CalculadoraTest" time="0.002"/>
+  <testcase name="divisaoTest()" classname="CalculadoraTest" time="0.002"/>
+  <testcase name="logaritmoTest()" classname="CalculadoraTest" time="0.009"/>
+  <testcase name="subtracaoTest()" classname="CalculadoraTest" time="0.002"/>
+  <testcase name="somaTest()" classname="CalculadoraTest" time="0.003"/>
+  <testcase name="raizquadrada()" classname="CalculadoraTest" time="0.003"/>
+  <system-out><![CDATA[30 de 700 = 210
+Multiplicação: 1 X 2 = 2
+Divisão: 4 ÷ 2 = 2
+Base 36.0 de logaritmo 6.0, o logaritimando é 0.5
+Subtração: 2 - 2 = 0
+Soma: 1 + 2 = 3
+?4.0 = 2.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
