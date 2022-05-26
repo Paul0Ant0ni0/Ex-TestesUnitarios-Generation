@@ -70,7 +70,7 @@ fun main(args: Array<String>) {
 
             else ->{
 
-                println("Valor digitado inválido")
+                println("Valor digitado inválido!")
             }
 
 
